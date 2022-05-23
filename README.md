@@ -1,4 +1,4 @@
-# SORTING VISUALIZER
+# VisuAlgo - Sorting visualizer
 #### --- JAVASCRIPT PROJECT
 
 ### A Sorting Algorithms Visualizer website which visualizes following sorting algorithms :- 
